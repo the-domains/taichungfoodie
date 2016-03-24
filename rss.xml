@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[taichungfoodie]]></title>
         <description><![CDATA[taichungfoodie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taichungfoodie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:58:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 17:06:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taichungfoodie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The People's Champion Yakiniku]]></title>
-            <description><![CDATA[<article><h1>The People's Champion Yakiniku</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ddd1797-4210-42ad-86e6-31218d2cb0ac.jpg"></article>]]></description>
-            <link>undefinedthe-peoples-champion-yakiniku/index.html</link>
+            <title><![CDATA[Umai Yakiniku]]></title>
+            <description><![CDATA[<article><h1>Umai Yakiniku</h1><p>The People's Champion Yakiniku</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ddd1797-4210-42ad-86e6-31218d2cb0ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taichungfoodie/the-peoples-champion-yakiniku/index.html</link>
             <guid isPermaLink="false">313d3514-009a-420b-acd6-6f327639333e</guid>
-            <pubDate>Thu, 24 Mar 2016 16:58:30 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 17:06:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
