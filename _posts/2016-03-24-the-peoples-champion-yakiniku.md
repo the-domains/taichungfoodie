@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Uma
-datePublished: '2016-03-24T16:58:30.595Z'
-dateModified: '2016-03-24T16:49:45.847Z'
-title: "The People's Champion Yakiniku"
+description: "The People's Champion Yakiniku"
+datePublished: '2016-03-24T17:06:45.041Z'
+dateModified: '2016-03-24T17:06:26.586Z'
+title: Umai Yakiniku
 author: []
+sourcePath: _posts/2016-03-24-the-peoples-champion-yakiniku.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-the-peoples-champion-yakiniku.md
-published: true
 url: the-peoples-champion-yakiniku/index.html
 _type: Article
 
