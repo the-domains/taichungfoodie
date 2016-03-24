@@ -1,7 +1,7 @@
 name: taichungfoodie
 favicon: null
-layout_spectrum: 0.8944546638522297
-typography_spectrum: 0.016045393887907267
+layout_spectrum: 0.96032
+typography_spectrum: 0.05264
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3929599968250841
-  lightness: 0.06591057195328176
-  saturation: 0.33396992390044034
-  rhythmicContrast: 0.48129518260248005
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
