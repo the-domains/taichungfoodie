@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Japanese BBQ (Yakiniku) is an interesting genre of food that is served all over Greater China. Yet, in most instances, the food served at these restaurants has little resemblance to the\_original concept found in Japan. \_This is particularly true in Taiwan. \_Having said that, unlike sushi or ramen, I find Japanese BBQ to be more charming when it diverges from its Japanese origins. \_The only thing that matters\_when eating Japanese BBQ is the quality of meat. \_Everything else comes down to personal preferences and budget."
-datePublished: '2016-03-27T14:31:12.706Z'
-dateModified: '2016-03-27T14:31:11.732Z'
+datePublished: '2016-03-27T14:39:50.700Z'
+dateModified: '2016-03-27T14:39:20.952Z'
 title: Umai Yakiniku
 author: []
 sourcePath: _posts/2016-03-24-the-peoples-champion-yakiniku.md
@@ -36,11 +36,11 @@ My first reaction is that Umai is one of those restaurants where you eat with yo
 
 Umai is really best suited for large group gatherings.  The restaurant has quite a few long tables each with multiple grills.  The staff are quite enthusiastic (almost like Friday's) bringing out the cake and singing Happy Birthday.  However, Umai can get a bit loud on a busy night (which seems like every night) so smaller groups may wish to book another Japanese BBQ restaurant in town.
 
-Let me know what you think about Umai by leaving a message in the comment section below or posting something on our [Facebook][1]page.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b93df5fd-3a61-4a18-98a4-1e519c76f78f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cebf60e-0609-4dce-ab34-255ab755a7f4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96cb6ea4-23d7-4ee9-aa99-cf8de4f43bd1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/497d45ad-736c-4cc2-b2b3-d4ee31f318b1.jpg)
+Let me know what you think about Umai by leaving a message in the comment section below or posting something on our [Facebook][1] page.
+
+  
+  
+
 
 [0]: https://en.wikipedia.org/wiki/Maillard_reaction
 [1]: https://www.facebook.com/taichungfoodie/?ref=hl
