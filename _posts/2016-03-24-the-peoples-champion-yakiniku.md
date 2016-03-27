@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Japanese BBQ (Yakiniku) is an interesting genre of food that is served all over Greater China. Yet, in most instances, the food served at these restaurants has little resemblance to the\_original concept found in Japan. \_This is particularly true in Taiwan. \_Having said that, unlike sushi or ramen, I find Japanese BBQ to be more charming when it diverges from its Japanese origins. \_The only thing that matters\_when eating Japanese BBQ is the quality of meat. \_Everything else comes down to personal preferences and budget."
-datePublished: '2016-03-27T14:39:50.700Z'
-dateModified: '2016-03-27T14:39:20.952Z'
+description: "Which brings us to Umai (屋馬烤肉料亭), or as I like to call it,\_The People’s Champion Japanese BBQ of Taichung. \_Now, there are plenty of very good Japanese BBQ shacks in Taichung and even I myself have a favourite. \_However,\_ask around where you should go for Japanese BBQ and you will find that local Taichung-ites will consistently suggest\_Umai as the place to go."
+datePublished: '2016-03-27T14:42:34.219Z'
+dateModified: '2016-03-27T14:39:53.899Z'
 title: Umai Yakiniku
 author: []
 sourcePath: _posts/2016-03-24-the-peoples-champion-yakiniku.md
