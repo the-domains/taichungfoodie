@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Which brings us to Umai (屋馬烤肉料亭), or as I like to call it,\_The People’s Champion Japanese BBQ of Taichung. \_Now, there are plenty of very good Japanese BBQ shacks in Taichung and even I myself have a favourite. \_However,\_ask around where you should go for Japanese BBQ and you will find that local Taichung-ites will consistently suggest\_Umai as the place to go."
-datePublished: '2016-03-27T14:43:41.302Z'
-dateModified: '2016-03-27T14:42:37.912Z'
+datePublished: '2016-03-27T14:45:49.535Z'
+dateModified: '2016-03-27T14:43:51.356Z'
 title: Umai Yakiniku
 author: []
 sourcePath: _posts/2016-03-24-the-peoples-champion-yakiniku.md
